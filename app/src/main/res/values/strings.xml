@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calorie App</string>
+    <string name="name">Name: </string>
+    <string name="calorie">Calories: </string>
+    <string name="description">The CalorieCalc is a powerful tool designed to help users easily track and manage their daily caloric intake.</string>
+    <string name="description2">Whether you\'re looking to maintain a healthy lifestyle, lose weight, or gain muscle, CalorieCalc provides real-time feedback on your calorie consumption, helping you stay on track with your nutrition goals.</string>
+
+</resources>
